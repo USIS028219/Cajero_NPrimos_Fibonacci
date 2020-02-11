@@ -1,0 +1,19 @@
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\bin\Debug\Cajero_Automatico.exe.config
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\bin\Debug\Cajero_Automatico.exe
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\bin\Debug\Cajero_Automatico.pdb
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.Form1.resources
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.Properties.Resources.resources
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.exe
+C:\Users\Estudiante\Documents\Walberto\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.pdb
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\bin\Debug\Cajero_Automatico.exe.config
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\bin\Debug\Cajero_Automatico.exe
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\bin\Debug\Cajero_Automatico.pdb
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.csprojAssemblyReference.cache
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.Form1.resources
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.Properties.Resources.resources
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.csproj.GenerateResource.cache
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.csproj.CoreCompileInputs.cache
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.exe
+C:\Users\laura Guerrero\Desktop\Cajero_Automatico - copia\Cajero_Automatico\obj\Debug\Cajero_Automatico.pdb
